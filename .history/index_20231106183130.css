@@ -7,6 +7,7 @@
 .container {
   padding: 173px 153px 178px 121px;
 }
+
 .box-1 {
   display: flex;
   justify-content: space-between;
